@@ -1,0 +1,2 @@
+# minimohalf
+minimo_half
